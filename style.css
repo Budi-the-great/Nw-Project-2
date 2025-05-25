@@ -1,0 +1,147 @@
+.banner img {
+    width: 55px;
+    height: 55px;
+    float: left; 
+    margin-left:5px;
+    margin-right: 5px;
+}
+.banner span {
+    vertical-align:top;
+}
+.banner .ban2 span {
+    vertical-align:top;
+}
+h1 {
+    background-color: rgb(127, 168, 255);
+    border-bottom: 5px solid black;
+}
+#header-1 {
+    font-size: 15px;
+}
+#header-2 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    text-align: center;
+    margin-top: -10px;
+    border-bottom: 1px solid black;   
+    font-size: 28px;
+}
+header {
+    margin-top: -21px;
+    margin-bottom: -10px;
+}
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left: 175px;
+    margin-right: 175px;
+    background-color: rgb(224, 224, 224);
+}
+#color-1 {
+    background-image: linear-gradient(#a5e2b5, #93cfbc);
+    border-left: 3px solid black;   
+    border-right: 3px solid black;   
+}
+.navbar {
+    padding-left: 0px;
+    margin: -22px 0 0 -40px;
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+}
+.navbar ul {
+    list-style-type: none;
+    font-size: 22px;
+}
+.navbar a {
+    text-decoration: none;
+    color: rgb(1, 15, 10);
+    display: block;
+    text-align: center;
+    padding: 15px;
+}
+.navbar a:hover {
+    background-image: linear-gradient(#26bb4d, #21926e);
+}
+.navbar li {
+    float: left;
+}
+.navbar-1 {
+    margin-left:120px;
+}
+#Angst {
+    width: 400px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: -50px;
+    vertical-align: top;
+}
+#Angst-2 {
+    width: 120px;
+    height: 120px;
+    margin-left: 1350px;
+    margin-bottom: -80px;
+    vertical-align: right;
+}
+#Spirale-der-Angst {
+    width: 250px;
+    height: 217.101px;
+    vertical-align:top;
+    margin-top: 50px;
+    margin-left: 150px
+}
+#Stressoren {
+    width: 250px;
+    height: 250px;
+    margin-left: 170px;
+    margin-top: 0px;
+}
+#Gehirn {
+    width: 250px;
+    height: 250px;
+    margin-left: 30px;
+    margin-top: 0px;
+    vertical-align:left;
+}
+#Warum-Bekommen-Wir-Angst {
+    width: 250px;
+    height: 250px;
+    margin-left: 370px;
+    margin-top: 50px;
+}
+#hormone {
+    width: 250px;
+    height: 250px;
+    margin-left: 320px;
+    margin-top: -10px;
+}
+#Hilfe {
+    width: 250px;
+    height: 250px;
+    margin-top: -450px;
+    margin-left: 80px;
+    margin-right: 20px;
+}
+main {
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 24px;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+.Bold {
+    font-weight: bold;
+}
+footer {
+    margin-top: -16px;
+    background-color: rgb(153, 153, 153);
+    padding: 2px;
+    padding-bottom: 150px;
+    background-attachment: bottom;
+    margin-bottom: -10px;
+    border-left: 3px solid black;   
+    border-right: 3px solid black;  
+}
